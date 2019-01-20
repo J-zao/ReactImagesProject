@@ -13,3 +13,11 @@
     text-align: center;
     color: blue;
 }
+
+.field {
+    font-size: 40px;
+}
+
+.field input {
+    font-size: 30px;
+}
