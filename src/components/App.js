@@ -16,6 +16,7 @@ class App extends React.Component{
     }   
     render(){
         return <div className="ui container" style={{marginTop: '10px'}}>
+             <div style={{textAlign:"center"}}><p><h1>Image finder</h1></p></div>
         <SearchBar onSubmit={this.onSearchSubmit}/>
         < ImageList images ={this.state.images} />
         </div>  
