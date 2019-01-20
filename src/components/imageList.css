@@ -8,3 +8,9 @@
 .image-list img {
     width: 250px;
 }
+
+.introText {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
